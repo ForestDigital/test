@@ -984,7 +984,7 @@
 
 
 
-# Really, get lost
+ Really, get lost
 
 
 
@@ -1277,7 +1277,7 @@
 
 
 
-# "I used to think the brain was the most important organ. Then I thought, look what's telling me that." - you
+ "I used to think the brain was the most important organ. Then I thought, look what's telling me that." - you
 
 
 
@@ -1550,7 +1550,7 @@
 
 
 
-# "A Buddhist goes up to a hotdog stand and says, 'Make me one with everything.'"
+ "A Buddhist goes up to a hotdog stand and says, 'Make me one with everything.'"
 
 
 
@@ -1841,7 +1841,7 @@
 
 
 
-# "Did you hear about the corduroy pillow? It's making head lines."
+ "Did you hear about the corduroy pillow? It's making head lines."
 
 
 
@@ -2123,7 +2123,7 @@
 
 
 
-# "Why don't blind people skydive? Because it scares the heck out of their dogs."
+ "Why don't blind people skydive? Because it scares the heck out of their dogs."
 
 
 
@@ -2372,7 +2372,7 @@
 
 
 
-# A wife asks her husband, who is a software engineer: "Could you please go shopping for me and buy 1 carton of milk. And if they have eggs, get 6!" A short time later the husband comes back with 6 cartons of milk. The wife asks him why the heck did he buy 6 cartons of milk??? He: "They had eggs"
+ A wife asks her husband, who is a software engineer: "Could you please go shopping for me and buy 1 carton of milk. And if they have eggs, get 6!" A short time later the husband comes back with 6 cartons of milk. The wife asks him why the heck did he buy 6 cartons of milk??? He: "They had eggs"
 
 
 
@@ -2638,7 +2638,7 @@
 
 
 
-# Why did the programmer die in the shower? The shampoo bottle said: "Wash, rinse, repeat."
+ Why did the programmer die in the shower? The shampoo bottle said: "Wash, rinse, repeat."
 
 
 
@@ -2974,7 +2974,7 @@
 
 
 
-# "A udp packet walks into a bar. The bartender doesn't acknowledge him."
+ "A udp packet walks into a bar. The bartender doesn't acknowledge him."
 
 
 
@@ -3345,7 +3345,7 @@
 
 
 
-# "How many programmers does it take to change a light bulb? None. It's a hardware problem."
+"How many programmers does it take to change a light bulb? None. It's a hardware problem."
 
 
 
@@ -3569,7 +3569,7 @@
 
 
 
-# 'Four threads walk into a bar. The bartender tells them, "Get out! I don't condition want last race like time another!"'
+'Four threads walk into a bar. The bartender tells them, "Get out! I don't condition want last race like time another!"'
 
 
 
